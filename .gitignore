@@ -1,4 +1,13 @@
-target/
+# output files
+/target/
+/bin/
+*.class
+*.jar
+
+# local configuration files and folders
+.classpath
+.project
+.settings
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
